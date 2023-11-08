@@ -1,5 +1,6 @@
 <script setup>
 import Button from 'primevue/button';
+const getNothing = () => 0;
 </script>
 
 <template>
